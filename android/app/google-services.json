@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197854570739",
+    "project_id": "kitchen-8bd23",
+    "storage_bucket": "kitchen-8bd23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197854570739:android:183a6e004a86a308112f86",
+        "android_client_info": {
+          "package_name": "com.example.hotelmake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgxLCm_ckcvUrH9WA6lbDlXOw-oWbp3oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
